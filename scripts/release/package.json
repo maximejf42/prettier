@@ -7,7 +7,7 @@
     "minimist": "1.2.0",
     "node-fetch": "2.1.2",
     "prs-merged-since": "1.0.1",
-    "semver": "5.5.0",
+    "semver": "5.7.1",
     "string-width": "2.1.1"
   }
 }
